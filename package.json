@@ -33,7 +33,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "debug": "~2.2.0",
+    "debug": "~2.6.7",
     "point-free": "0.7.0",
     "pg": "^6.0",
     "sql-bricks-postgres": ">=0.3.0"
